@@ -2,12 +2,13 @@
 
 - Hi👋. I'm Micheal ⛩️:nigeria:
 - 3 Years experience as a C++ engineer
-- 1+ years experience as a front-end developer
-- 😄 Pronouns: **He/Him**
+- Qt | Qml
+- Python | Django
+- About 2 years experience as a front-end developer
+- About a years experience as a back-end developer
 - I'm a active member of Voidrealms
 - Now Studying:
-  - Qt | Qml
-  - 2D and 3D web graphics 
+  - Rust 
   - Native
 -Hobbies:
   - Watching anime, reading LN and reading manga.
