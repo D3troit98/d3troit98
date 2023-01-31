@@ -9,11 +9,12 @@
 - I'm a active member of Voidrealms
 - Now Studying:
   - Rust 
-  - Native
+  - React Native
 -Hobbies:
   - Watching anime, reading LN and reading manga.
   - Reading fantasy novel (😄 *Brandon Sanderson*)
   - Web Design and Application logic
+  - Trying out formations on FM
 
 ## 💼 Tech Stack
 
