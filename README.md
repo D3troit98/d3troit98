@@ -10,7 +10,7 @@
 - Now Studying:
   - Rust 
   - React Native
--Hobbies:
+- Hobbies:
   - Watching anime, reading LN and reading manga.
   - Reading fantasy novel (😄 *Brandon Sanderson*)
   - Web Design and Application logic
