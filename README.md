@@ -5,7 +5,7 @@
 - Qt | Qml
 - Python | Django
 - About 2 years experience as a front-end developer
-- About a years experience as a back-end developer
+- About a year experience as a back-end developer
 - I'm a active member of Voidrealms
 - Now Studying:
   - Rust 
