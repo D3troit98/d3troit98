@@ -139,8 +139,9 @@ class Developer {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3troit98&repo=bozeom&theme=tokyonight)](https://github.com/D3troit98/bozeom)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3troit98&repo=solution_platform&theme=tokyonight)](https://github.com/D3troit98/solution_platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3troit98&repo=mediasoup-test-app&theme=tokyonight)](https://github.com/D3troit98/mediasoup-test-app
+)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3troit98&repo=busola-server&theme=tokyonight)](https://github.com/D3troit98/busola-server)
 
 </div>
 
