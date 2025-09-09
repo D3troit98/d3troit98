@@ -88,16 +88,16 @@ class Developer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D3troit98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3troit98&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D3troit98&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3troit98&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -106,7 +106,7 @@ class Developer {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=D3troit98&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -139,8 +139,8 @@ class Developer {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-awesome-project&theme=tokyonight)](https://github.com/yourusername/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-cool-project&theme=tokyonight)](https://github.com/yourusername/another-cool-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3troit98&repo=bozeom&theme=tokyonight)](https://github.com/D3troit98/bozeom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3troit98&repo=solution_platform&theme=tokyonight)](https://github.com/D3troit98/solution_platform)
 
 </div>
 
@@ -161,7 +161,7 @@ class Developer {
 <a href="https://www.linkedin.com/in/duruaku-ebuka-6b6540137/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/duruaku_lithium">
+<a href="https://x.com/duruaku_mi5504">
   <img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="mailto:duruakuebuka@gmail.com">
@@ -180,5 +180,5 @@ class Developer {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=D3troit98&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
